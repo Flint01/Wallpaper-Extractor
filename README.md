@@ -9,6 +9,7 @@
 
 ### REQUIREMENTS:
 * Windows Commandline (cmd.exe)
+* Download RePKG (https://github.com/notscuffed/repkg/releases/tag/v0.2.2-alpha)
 
 ### INSTALLATION:
 1. Download the files
